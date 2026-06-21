@@ -8,11 +8,6 @@
 
 ---
 
-## 🔗 Live Dashboard
-👉 **[View Interactive Dashboard on Tableau Public](#)** ← *()*
-
----
-
 ## 🎯 Business Problem
 
 The AI and Data Science job market is growing at an unprecedented rate. However, professionals, students, and organizations often lack clear visibility into:
